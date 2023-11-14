@@ -1,0 +1,9 @@
+# Unity generated files
+Library/
+Temp/
+
+# Unity log files
+Logs/
+
+# Unity user settings
+UserSettings/
