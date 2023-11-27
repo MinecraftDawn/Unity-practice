@@ -46,10 +46,19 @@ public class Player : MonoBehaviour
 
     void OnCollisionStay2D(Collision2D other)
     {
-        if (other.gameObject.CompareTag("Floor"))
-        {
-            isOnFloor = true;
+        foreach (ContactPoint2D contact in other.contacts) {
+            if (contact.normal.y > 0.5f && other.gameObject.CompareTag("Floor"))
+            {
+                isOnFloor = true;
+                break;
+            }
         }
+        
+
+        // if (other.gameObject.CompareTag("Floor"))
+        // {
+        //     isOnFloor = true;
+        // }
     }
 
     private void OnCollisionExit2D(Collision2D other)
