@@ -1,1 +1,2 @@
-Assets filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes filter=lfs diff=lfs merge=lfs -text
+Assets/kenney_pixel-platformer filter=lfs diff=lfs merge=lfs -text
