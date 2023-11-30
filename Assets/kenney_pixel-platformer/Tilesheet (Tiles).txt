@@ -1,9 +1,3 @@
-Tilesheet information:
-
-Tile size                 •  18px × 18px
-Space between tiles       •  1px × 1px
----
-Total tiles (horizontal)  •  20 tiles
-Total tiles (vertical)    •  9 tiles
----
-Total tiles in sheet      •  180 tiles
+version https://git-lfs.github.com/spec/v1
+oid sha256:91acf2150cbdebf28e9ef26255247b9ceb7f64121dc1b5fde3af343125e6ebc9
+size 237

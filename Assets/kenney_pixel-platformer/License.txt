@@ -1,28 +1,3 @@
-	
-
-	Pixel Platformer (1.2)
-
-	Created/distributed by Kenney (www.kenney.nl)
-	Creation date: 07-10-2023
-
-			------------------------------
-
-	License: (Creative Commons Zero, CC0)
-	http://creativecommons.org/publicdomain/zero/1.0/
-
-	You can use this content for personal, educational, and commercial purposes.
-
-	Support by crediting 'Kenney' or 'www.kenney.nl' (this is not a requirement)
-
-			------------------------------
-
-	• Website : www.kenney.nl
-	• Donate  : www.kenney.nl/donate
-
-	• Patreon : patreon.com/kenney
-	
-	Follow on social media for updates:
-
-	• Twitter:	twitter.com/KenneyNL
-	• Instagram: 	instagram.com/kenney_nl
-	• Mastodon:	mastodon.gamedev.place/@kenney
+version https://git-lfs.github.com/spec/v1
+oid sha256:79ab2b701fe8047758bec141b4613084de4b96581279cbfd3d927414430e3dc1
+size 710
